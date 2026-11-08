@@ -12,4 +12,6 @@ cool selfhosted email
 i-am@sourcecake.dev
 get your own at mail.sourcecake.dev
 really cool project i’ve been working on
+
+
 [smartschool](https://smartschool.be) sucks
