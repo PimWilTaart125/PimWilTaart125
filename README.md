@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @PimWilTaart125
-- 👀 I’m interested in Mc-Hacking and smartschool-destruct
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me not
-- 😄 Pronouns: ...
-- ⚡ Fun fact: fun
+aka sourcecake
+https://sourcecake.dev check it out if you wan
+i probably exist now
+yeh lol
 
-<!---
-PimWilTaart125/PimWilTaart125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i write python(sometimes), javascript(personal fav) and spaghetti
+
+all the other langs i don’t understand enough to write in. if you see other langs they are probably vibecoded lol
+i mean: i do understand them but not enough yeh.
+epic bra moment..
+cool selfhosted email
+i-am@sourcecake.dev
+get your own at mail.sourcecake.dev
+really cool project i’ve been working on
+smartschool] sucks
