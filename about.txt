@@ -1,0 +1,4 @@
+Hi, I'm Sourcecake.
+I'm a front-end web developer. Next.js is the best framework ever. 
+I'm interested in cybersecurity and AI. I already made cool stuff. 
+I'm in love with music, marvel and making stuff with Pi's.
