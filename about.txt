@@ -1,4 +1,34 @@
-Hi, I'm Sourcecake.
-I'm a front-end web developer. Next.js is the best framework ever. 
-I'm interested in cybersecurity and AI. I already made cool stuff. 
-I'm in love with music, marvel and making stuff with Pi's.
+    \o/     about.txt
+     |      ─────────────────────────────────────
+    / \
+ ( ͡° ͜ʖ ͡°)
+
+ hi, i'm Sourcecake — aka PimWilTaart125.
+ front-end web developer. i probably exist now, yeh lol.
+
+ ── what i write ─────────────────────────────────────
+ JavaScript is my personal favourite. Python sometimes.
+ And a whole lot of spaghetti (it works, don't ask).
+ Next.js is the best framework ever. change my mind.
+ Other languages? i understand them, just not enough to
+ write in them. if you see them, they were vibecoded lol.
+
+ ── what i'm into ────────────────────────────────────
+ cybersecurity · AI · music · marvel · making stuff
+ with Pi's. if it blinks, i probably made it blink.
+
+ ── stuff i made ─────────────────────────────────────
+ sourcecake.dev        my portfolio site
+ mail.sourcecake.dev   self-hosted mail server
+ i-am@sourcecake.dev   yes, that's a real inbox
+
+ ── strong opinions ──────────────────────────────────
+ smartschool sucks. epic bra moment..
+
+ ── find me ──────────────────────────────────────────
+ web    https://sourcecake.dev
+ mail   i-am@sourcecake.dev
+
+    ╭────────────────────────────────╮
+    │  thanks for reading. stay weird │
+    ╰────────────────────────────────╯
