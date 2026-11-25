@@ -1,10 +1,9 @@
-    \o/     about.txt
-     |      ─────────────────────────────────────
-    / \
- ( ͡° ͜ʖ ͡°)
+  \o/     about me
+   |      ────────────────────────────────────────────
+  / \     technoblade never dies
 
- hi, i'm Sourcecake — aka PimWilTaart125.
- front-end web developer. i probably exist now, yeh lol.
+ hi, i'm Sourcecake
+ a front-end web developer. i probably exist now. heck yes
 
  ── what i write ─────────────────────────────────────
  JavaScript is my personal favourite. Python sometimes.
@@ -19,16 +18,21 @@
 
  ── stuff i made ─────────────────────────────────────
  sourcecake.dev        my portfolio site
- mail.sourcecake.dev   self-hosted mail server
- i-am@sourcecake.dev   yes, that's a real inbox
+ mail.sourcecake.dev   get your own custom email here
+ onzesmp.nl            cool dutch smp (i made the site)
+ ducksmp.nl            i made this site too lol
 
  ── strong opinions ──────────────────────────────────
- smartschool sucks. epic bra moment..
+ smartschool sucks
+ stay off my ram stupid sam altman
+ selfhosted is fire
+ google adsense is biased
+ 
 
  ── find me ──────────────────────────────────────────
  web    https://sourcecake.dev
  mail   i-am@sourcecake.dev
 
     ╭────────────────────────────────╮
-    │  thanks for reading. stay weird │
+    │  thanks for reading. stay weird      │
     ╰────────────────────────────────╯
