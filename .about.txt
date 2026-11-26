@@ -1,38 +1,38 @@
   \o/     about me
-   |      ────────────────────────────────────────────
+   |      ─────────────────────────────────────────────────
   / \     technoblade never dies
 
  hi, i'm Sourcecake
  a front-end web developer. i probably exist now. heck yes
 
- ── what i write ─────────────────────────────────────
+ ── what i write ──────────────────────────────────────────
  JavaScript is my personal favourite. Python sometimes.
  And a whole lot of spaghetti (it works, don't ask).
  Next.js is the best framework ever. change my mind.
  Other languages? i understand them, just not enough to
  write in them. if you see them, they were vibecoded lol.
 
- ── what i'm into ────────────────────────────────────
+ ── what i'm into ─────────────────────────────────────────
  cybersecurity · AI · music · marvel · making stuff
  with Pi's. if it blinks, i probably made it blink.
 
- ── stuff i made ─────────────────────────────────────
+ ── stuff i made ──────────────────────────────────────────
  sourcecake.dev        my portfolio site
  mail.sourcecake.dev   get your own custom email here
  onzesmp.nl            cool dutch smp (i made the site)
  ducksmp.nl            i made this site too lol
 
- ── strong opinions ──────────────────────────────────
+ ── strong opinions ───────────────────────────────────────
  smartschool sucks
  stay off my ram stupid sam altman
  selfhosted is fire
  google adsense is biased
  
 
- ── find me ──────────────────────────────────────────
+ ── find me ───────────────────────────────────────────────
  web    https://sourcecake.dev
  mail   i-am@sourcecake.dev
 
-    ╭────────────────────────────────╮
-    │ thanks for reading. stay weird │
-    ╰────────────────────────────────╯
+            ╭────────────────────────────────╮
+            │ thanks for reading. stay weird │
+            ╰────────────────────────────────╯
