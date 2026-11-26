@@ -34,5 +34,5 @@
  mail   i-am@sourcecake.dev
 
     ╭────────────────────────────────╮
-    │  thanks for reading. stay weird│
+    │ thanks for reading. stay weird │
     ╰────────────────────────────────╯
